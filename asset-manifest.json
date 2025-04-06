@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/my-ts-app/my-ts-app/static/js/main.58aa07db.js",
+    "main.js": "/my-ts-app/my-ts-app/static/js/main.765fed7e.js",
     "index.html": "/my-ts-app/my-ts-app/index.html",
-    "main.58aa07db.js.map": "/my-ts-app/my-ts-app/static/js/main.58aa07db.js.map"
+    "main.765fed7e.js.map": "/my-ts-app/my-ts-app/static/js/main.765fed7e.js.map"
   },
   "entrypoints": [
-    "static/js/main.58aa07db.js"
+    "static/js/main.765fed7e.js"
   ]
 }

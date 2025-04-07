@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-  # Замените на вашу основную ветку
 
 jobs:
   build-and-deploy:
